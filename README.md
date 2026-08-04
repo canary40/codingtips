@@ -1,2 +1,4 @@
 - **wiimotemouse.pie**: a script working with GLOVEPIE software; it allows you using your old WiiMote as a Windows mouse! -- NOT TESTED
 - **wingetmanual**: winget manual installation
+- **btcmd**: bluetooth and cmd integration, through btcom and btpair
+- 
